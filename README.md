@@ -1,4 +1,4 @@
-# Calcualter
+# Calculater
 Python Calculater
 
 Using *tkinter* and *re*
